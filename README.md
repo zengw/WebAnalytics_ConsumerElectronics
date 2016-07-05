@@ -1,8 +1,4 @@
 # WebAnalytics_ConsumerElectronics
 
-Team members: 
-
-Assignment1
-Assignment2
-
+Team members: Ilya Gorelkin, Zach King, Wei Zeng, and Jose Zuloaga
 
