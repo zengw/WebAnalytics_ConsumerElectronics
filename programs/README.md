@@ -1,8 +1,3 @@
-# WebAnalytics_ConsumerElectronics
-
-Team members: 
-
-Assignment1
-Assignment2
+# This folder will be used to save programs
 
 
